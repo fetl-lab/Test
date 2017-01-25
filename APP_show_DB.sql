@@ -1,4 +1,4 @@
--- Test git
+-- Test git - Revision
 show databases;
 show tables;
 select * from default.temp_tbl_01;
