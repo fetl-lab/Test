@@ -1,4 +1,6 @@
-﻿# hive execution file
+﻿#!/bin/bash
+# Upload Github
+# hive execution file
 function fwk_hive_exec_sql()
 {
 # check parameter
