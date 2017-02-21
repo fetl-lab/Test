@@ -1,6 +1,6 @@
 #!/bin/bash
 # Dameon scrutant les demandes de lancement 
-# envoi github
+# envoi github 666
 
 # On source l'environnement
 . ${FETL_HOME}/.fetl_env
