@@ -1,5 +1,5 @@
 #!/bin/bash
-# Dameon scrutant les demandes de lancement 
+# Dameon scrutant les demandes de lancement --
 # envoi github 666
 
 # On source l'environnement
