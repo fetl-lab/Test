@@ -1,6 +1,7 @@
 #!/bin/bash
 echo $toto
 
-return 0
+return 257
+
 
 exit 1
