@@ -1,6 +1,6 @@
 #!/bin/bash
 echo $toto
 
-return 256
+return 257
 
 exit 1
