@@ -4,7 +4,7 @@
 function fwk_hive_exec_sql()
 {
 # check parameter
-	if [ $# -ne 5 ]
+	if [ $# -ne 5 ] ######
 	then
 		fwk_gen_msg E F 
 	fi
